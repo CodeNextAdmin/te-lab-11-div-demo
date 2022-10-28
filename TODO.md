@@ -1,19 +1,33 @@
 # TODO 🚧
 
-Your new site is all yours so it doesn't matter if you break it! Try editing the code–add a button element that moves when the user clicks it.
+## Review structure
 
-In `index.html`, add this code on the line after the comment with `ADD BUTTON HERE` in it (you can copy and paste the button element HTML):
+Begin by looking at the structure of the HTML. This is a basic example of nesting elements inside parent containers.
+#### Discuss these questions:
+1. What is the top-most parent container?
+2. What happens to the elements as you stretch and shrink the window?
+3. What is different about the div elements?
 
-```html
-<button>
-    Click me!
-</button>
+## The main container
+1. Notice the main container begins with a hashtag. That is because it is an ID selector, only one can exist with this name.
+```css
+#main-container  {
+  
+  
+}
+
 ```
 
-Look at the page to see the button. Click it!
+2. Notice the other ones begin with a ``.``   This is because they are class selectors. You can have multiple ones and the CSS will affec them all.
+3. Change the main container's width. Try to use both pixels and percentage. 
 
-Open `script.js` to see the script that makes the button move.
+```css
 
-## Keep going! 🚀
+#main-container  {
+  
+  width: 40%; /* will be a fixed size */
+  
+  
+}
 
-Try adding more properties to the CSS `dipped` style for the button to see how the changes appear on click.
+```
