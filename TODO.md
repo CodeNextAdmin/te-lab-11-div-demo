@@ -52,4 +52,8 @@ The  ``<div class="parent">`` has a background color, size, margins and padding 
 Each child div has one emoji as html content. 
 1. Notice how you can set the font size of child elements, even though they are not wrapped in HTML tags.
 2. Adjust values to see the output.
-3. Shrink and stretch the window
+3. Shrink and stretch the window to see how your changes affect the output.
+
+## Challenges:
+
+1. Make this layout:
