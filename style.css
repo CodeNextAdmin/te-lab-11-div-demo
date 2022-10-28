@@ -19,9 +19,10 @@ body {
   
   background-color:#D93F07;
   width:50%;
-  width: 200px;
+  width: 200px; /* change from percent to fixed pixel width */
   margin:20px;
   padding: 15px;
+  /* display: inline-block; */ 
   
 }
 
