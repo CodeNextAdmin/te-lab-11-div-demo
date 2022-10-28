@@ -54,6 +54,9 @@ Each child div has one emoji as html content.
 2. Adjust values to see the output.
 3. Shrink and stretch the window to see how your changes affect the output.
 
-## Challenges:
+## Challenge:
 
 1. Make this layout:
+ ![Challenge Solution](https://i.imgur.com/faOVISa.png)
+ 
+2. Make your own layout and explain how you did it. 
