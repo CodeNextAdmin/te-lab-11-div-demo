@@ -1,20 +1,36 @@
 
 body {
   font-family: Verdana,sans-serif;
-  background-color: cyan;
+  background-color: #07D9D9;
+  
 }
 
 
 #main-container{
   
+  width:50%;
+  background-color:#F28907;
+  margin: 20px;
+  padding:12px;
+  margin: auto; /* One way to center */
   
 }
 .parent{
   
+  background-color:#D93F07;
+  width:50%;
+  margin:20px;
+  padding: 5px;
   
 }
 
 .child{
-
+ 
+  font-size:60px;
+  background-color:#F2E527;
+  margin:5px;
+  text-align:center;
+  padding: 5px;
+  
 
 }
